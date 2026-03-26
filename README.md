@@ -1,6 +1,5 @@
-# Desafio Nology — Estágio em Dados (2026)
 
-Este projeto foi desenvolvido como parte de um desafio técnico para a vaga de Estágio em Dados.
+
 O objetivo foi analisar uma base de leads e identificar quais características apresentam maior
 chance de conversão em clientes, apoiando decisões do time de marketing.
 
